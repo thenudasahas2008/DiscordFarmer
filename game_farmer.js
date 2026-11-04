@@ -8,8 +8,8 @@ const GATEWAY_URL = "wss://gateway.discord.gg/?v=10&encoding=json";
 
 // Brawlhalla Official Discord Verified Game Data
 const VERIFIED_GAME = {
-    name: "Call of Duty: Modern Warfare 4",
-    application_id: "1511443377927880775",
+    name: "Counter-Strike 2",
+    application_id: "1158877933042143272",
     type: 0
 };
 
