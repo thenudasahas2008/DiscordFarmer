@@ -12,8 +12,8 @@ const GATEWAY_URL = "wss://gateway.discord.gg/?v=10&encoding=json";
 
 // Brawlhalla Official Discord Verified Game Data
 const VERIFIED_GAME = {
-    name: "Counter-Strike 2",
-    application_id: "1158877933042143272",
+    name: "Blood Strike",
+    application_id: "0",
     type: 0
 };
 
