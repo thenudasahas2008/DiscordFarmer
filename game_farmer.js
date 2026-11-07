@@ -74,7 +74,7 @@ function startGameFarmer() {
     ws.on('close', (code) => {
         console.log(`[GAME FARMER] DISCONNECTED (${code}). Reconnecting in 5 seconds...`);
         clearInterval(heartbeatInterval);
-        setTimeout(startGameFarmer, 5000);
+        setTimeout(startGameFarmer, 90000);
     });
 
     ws.on('error', (err) => {
