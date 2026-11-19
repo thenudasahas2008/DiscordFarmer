@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20,24&height=220&section=header&text=DISCORD%20PRESENCE%20FARMER&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=24/7%20Discord%20Gateway%20v10%20Game%20Playtime%20%26%20Badge%20Farmer&descAlignY=58&descAlign=50" width="100%" alt="Discord Farmer Header" />
+<img src="assets/header.svg" width="100%" alt="Discord Farmer Header" />
 
 [![NodeJS](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Discord Gateway](https://img.shields.io/badge/Discord_Gateway-v10-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/developers/docs/topics/gateway)
